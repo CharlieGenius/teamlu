@@ -1,0 +1,281 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Team LU</title><meta name="description" content="Team LU · Con diversión sacas tu mejor versión. Nuestros objetivos, estrellas y próximos encuentros."><meta property="og:site_name" content="Team LU"><meta property="og:title" content="Team LU"><meta property="og:description" content="Con diversión sacas tu mejor versión. Objetivos, estrellas y próximos encuentros de Team LU."><link rel="stylesheet" href="/assets/site.css"></head><body>
+
+
+
+<canvas id="bg" aria-hidden="true"></canvas>
+
+<header class="hero">
+  <div class="wrap hero-inner">
+    <img class="eagle" src="/assets/reference-4.png" alt="Un águila calva en pleno vuelo con las alas extendidas">
+    <h1><span class="team"><span data-copy="copy-0">Team</span></span><span class="vale"><span data-copy="copy-1">LU</span></span></h1>
+    <p class="lema"><span data-copy="copy-2">Con diversión sacas </span><em><span data-copy="copy-3">tu mejor versión</span></em><span data-copy="copy-4">.</span></p>
+    <div class="hero-actions">
+      <a class="btn btn-sun" href="#estrellas"><span data-copy="copy-5">Nuestro plato</span></a>
+      <a class="btn btn-ghost" href="#premio"><span data-copy="copy-6">El premio</span></a>
+      <a class="btn btn-ghost" href="#eagle"><span data-copy="copy-7">Eagle</span></a>
+      <a class="btn btn-ghost" href="#contest"><span data-copy="copy-8">Contest</span></a>
+      <a class="btn btn-ghost" href="#ssa"><span data-copy="copy-9">Los 9 puntos</span></a>
+      <a class="btn btn-ghost" href="#canal"><span data-copy="copy-10">El canal</span></a>
+      <a class="btn btn-ghost" href="#calendario"><span data-copy="copy-11">Calendario</span></a>
+    </div>
+    <div class="hero-stats">
+      <span><b id="stat-estrellas"><span data-copy="copy-12">70</span></b><span data-copy="copy-13"> estrellas por conseguir</span></span>
+      <span><b id="stat-personas"><span data-copy="copy-14">8</span></b><span data-copy="copy-15"> personas en el equipo</span></span>
+    </div>
+  </div>
+</header>
+
+<svg width="0" height="0" aria-hidden="true" focusable="false" style="position:absolute">
+  <symbol id="star-shape" viewBox="0 0 120 120">
+    <path d="M58.78 11.39 Q60.00 8.00 61.22 11.39 L70.83 38.03 Q72.05 41.42 75.65 41.53 L103.95 42.43 Q107.55 42.55 104.71 44.76 L82.34 62.13 Q79.50 64.33 80.50 67.79 L88.39 94.99 Q89.39 98.45 86.41 96.43 L62.98 80.52 Q60.00 78.50 57.02 80.52 L33.59 96.43 Q30.61 98.45 31.61 94.99 L39.50 67.79 Q40.50 64.33 37.66 62.13 L15.29 44.76 Q12.45 42.55 16.05 42.43 L44.35 41.53 Q47.95 41.42 49.17 38.03 Z"/>
+  </symbol>
+  <symbol id="plane-shape" viewBox="0 0 120 120">
+    <path d="M60 8 C67 8 71 19 72 35 L113 67 L113 80 L72 64 L72 89 L85 99 L85 110 L60 101 L35 110 L35 99 L48 89 L48 64 L7 80 L7 67 L48 35 C49 19 53 8 60 8 Z"/>
+  </symbol>
+</svg>
+
+<section id="estrellas">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <h2><span data-copy="copy-16">Nuestro plato</span></h2>
+      <p class="claim"><span data-copy="copy-17">Todos juntos, lo ganamos.</span></p>
+    </div>
+    <div class="stars-panel reveal">
+      <div class="stars-top">
+        <div>
+          <div class="tally">
+            <b id="star-left"><span data-copy="copy-18">0</span></b>
+            <span><span data-copy="copy-19">conseguidas</span></span>
+          </div>
+          <p class="tally-sub" id="star-sub"><span data-copy="copy-20">0 conseguidas de 70</span></p>
+        </div>
+        <p class="stars-note"><span data-copy="copy-21">Cada estrella es un logro del equipo. Cuando caiga una, dímelo y la enciendo.</span></p>
+      </div>
+      <div class="bar" role="img" aria-label="Progreso hacia las 70 estrellas"><i id="star-bar" style="width:0%"></i></div>
+      <div class="plate" id="stars-plate"></div>
+    </div>
+  </div>
+</section>
+
+<section id="premio">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <h2><span data-copy="copy-22">El premio</span></h2>
+      <p class="claim"><span data-copy="copy-23">El día que lo conseguimos.</span></p>
+    </div>
+    <div class="player premio reveal">
+      <a class="player-fallback" href="https://youtu.be/oAJ7TKJkFww" target="_blank" rel="noopener">
+        <span class="play" aria-hidden="true"><span data-copy="copy-24">&#9654;</span></span>
+        <span class="player-title"><span data-copy="copy-25">Ver el vídeo del premio</span></span>
+        <span class="player-sub"><span data-copy="copy-26">Se reproduce aqu&iacute; mismo</span></span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section id="eagle">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <p class="eyebrow"><span data-copy="copy-27">Objetivo individual</span></p>
+      <h2><span data-copy="copy-28">Eagle</span></h2>
+      <p class="claim"><span data-copy="copy-29">Cuando yo gano, todos ganan.</span></p>
+    </div>
+    <div class="eagle-panel reveal" id="eagle-panel"></div>
+  </div>
+</section>
+
+<section id="personales">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <h2><span data-copy="copy-30">Objetivos personales</span></h2>
+      <p><span data-copy="copy-31">Toca una tarjeta para ver todo el historial de esa persona.</span></p>
+    </div>
+    <div class="members reveal" id="personas-grid"></div>
+  </div>
+</section>
+
+<div class="ficha" id="ficha" hidden>
+  <div class="ficha-fondo" data-cerrar></div>
+  <div class="ficha-panel" role="dialog" aria-modal="true" aria-labelledby="ficha-nombre">
+    <button class="ficha-x" type="button" aria-label="Cerrar" data-cerrar><span data-copy="copy-32">&times;</span></button>
+    <div class="ficha-head">
+      <div class="avatar" id="ficha-icono" aria-hidden="true"></div>
+      <div>
+        <h3 id="ficha-nombre"><span data-copy="copy-33">—</span></h3>
+        <p class="count" id="ficha-sub"><span data-copy="copy-34">—</span></p>
+      </div>
+    </div>
+    <div class="ficha-cuerpo" id="ficha-cuerpo"></div>
+  </div>
+</div>
+
+<section id="contest">
+  <div class="aviones" aria-hidden="true"><canvas id="cplanes"></canvas></div>
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <h2><span data-copy="copy-35">Contest</span></h2>
+      <p class="claim"><span data-copy="copy-36">Catorce vuelos, un destino.</span></p>
+    </div>
+    <div class="eagle-panel reveal" id="contest-panel"></div>
+  </div>
+</section>
+
+<section id="ssa">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <h2><span data-copy="copy-37">Los 9 puntos de la SSA</span></h2>
+    </div>
+    <div class="puntos reveal">
+      <article class="punto">
+        <span class="num"><span data-copy="copy-38">1</span></span>
+        <h3><span data-copy="copy-39">Actitud mental positiva</span></h3>
+        <blockquote><span data-copy="copy-40">«La habilidad es lo que somos capaces de hacer, la motivación determina lo que hacemos, la actitud define lo bien que lo hacemos»</span></blockquote>
+      </article>
+      <article class="punto">
+        <span class="num"><span data-copy="copy-41">2</span></span>
+        <h3><span data-copy="copy-42">Aplicar SSA y Genius</span></h3>
+        <blockquote><span data-copy="copy-43">«Todas las cosas son difíciles antes de convertirse en fáciles»
+          </span><cite><span data-copy="copy-44">John Norley</span></cite></blockquote>
+      </article>
+      <article class="punto">
+        <span class="num"><span data-copy="copy-45">3</span></span>
+        <h3><span data-copy="copy-46">Participación activa</span></h3>
+        <p><span data-copy="copy-47">Acudir a los eventos, cursos y formaciones.</span></p>
+        <blockquote><span data-copy="copy-48">«Hay 3 cosas grandes en el mundo: los océanos, las montañas y una persona empeñada»
+          </span><cite><span data-copy="copy-49">Winston Churchill</span></cite></blockquote>
+      </article>
+      <article class="punto">
+        <span class="num"><span data-copy="copy-50">4</span></span>
+        <h3><span data-copy="copy-51">Puntualidad física y mental</span></h3>
+        <p><span data-copy="copy-52">Proactividad.</span></p>
+        <blockquote><span data-copy="copy-53">«No esperes que tu barco entre al puerto, nada hacia él»</span></blockquote>
+      </article>
+      <article class="punto">
+        <span class="num"><span data-copy="copy-54">5</span></span>
+        <h3><span data-copy="copy-55">Profesionalidad y competencia</span></h3>
+        <p><span data-copy="copy-56">Ropa formal, buenas maneras, ser aculturado.</span></p>
+      </article>
+      <article class="punto">
+        <span class="num"><span data-copy="copy-57">6</span></span>
+        <h3><span data-copy="copy-58">Ser útil y guiar con el ejemplo</span></h3>
+        <blockquote><span data-copy="copy-59">«De las mejores satisfacciones de esta vida es que nadie puede ayudar realmente a los demás sin ayudarse y mejorarse a sí mismo»
+          </span><cite><span data-copy="copy-60">Ralph Waldo Emerson</span></cite></blockquote>
+      </article>
+      <article class="punto">
+        <span class="num"><span data-copy="copy-61">7</span></span>
+        <h3><span data-copy="copy-62">Contribuir</span></h3>
+        <p><span data-copy="copy-63">Al crecimiento del Centro, involucrando a los demás (Eagle) y llevando ejemplo a tu entorno.</span></p>
+      </article>
+      <article class="punto">
+        <span class="num"><span data-copy="copy-64">8</span></span>
+        <h3><span data-copy="copy-65">Definir objetivos sin límites</span></h3>
+        <blockquote><span data-copy="copy-66">«Lo maravilloso de la experiencia humana perdería parte de la felicidad gratificante si no hubieran límites a superar»
+          </span><cite><span data-copy="copy-67">Helen Keller</span></cite></blockquote>
+      </article>
+      <article class="punto">
+        <span class="num"><span data-copy="copy-68">9</span></span>
+        <h3><span data-copy="copy-69">Teamwork</span></h3>
+        <p><span data-copy="copy-70">Honestidad, confianza y sinceridad.</span></p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="yt-band" id="canal">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <p class="eyebrow"><span data-copy="copy-71">El canal</span></p>
+      <h2><span data-copy="copy-72">Valerio en YouTube</span></h2>
+      <p><span data-copy="copy-73">Acceso directo a lo último del canal: el botón abre siempre el vídeo más reciente, sin tener que tocar nada aquí.</span></p>
+    </div>
+    <div class="yt-grid reveal">
+      <div class="player">
+        <a class="player-fallback" href="https://www.youtube.com/playlist?list=UU7bKXDZ4nLb5RISMmo4vULw" target="_blank" rel="noopener">
+          <span class="play" aria-hidden="true"><span data-copy="copy-74">▶</span></span>
+          <span class="player-title"><span data-copy="copy-75">Último vídeo de Mind-Lab</span></span>
+          <span class="player-sub"><span data-copy="copy-76">Se abre en YouTube por el más reciente ↗</span></span>
+        </a>
+      </div>
+      <div class="yt-side">
+        <div class="yt-channel">
+          <h3><span data-copy="copy-77">Mind-Lab</span></h3>
+          <p class="handle"><span data-copy="copy-78">@Mindlab.ValerioSepe</span></p>
+          <p><span data-copy="copy-79">Aprendizaje acelerado, memoria, concentración y productividad. El enlace lleva a la lista de subidas, ordenada por lo más nuevo.</span></p>
+          <a class="btn btn-yt" href="https://www.youtube.com/@Mindlab.ValerioSepe?sub_confirmation=1" target="_blank" rel="noopener"><span data-copy="copy-80">Suscribirse ↗</span></a>
+          <a class="link-plain" href="https://www.youtube.com/@Mindlab.ValerioSepe/videos" target="_blank" rel="noopener"><span data-copy="copy-81">Ver todos los vídeos ↗</span></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="calendario">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <p class="eyebrow"><span data-copy="copy-82">Calendario</span></p>
+      <h2><span data-copy="copy-83">Lo que viene</span></h2>
+      <p><span data-copy="copy-84">La temporada completa, mes a mes. Cada actividad aparece en su día, con su color y su hora de inicio.</span></p>
+    </div>
+    <div class="calendar reveal">
+      <div class="cal-head">
+        <h3 class="cal-title" id="cal-title"><span data-copy="copy-85">—</span></h3>
+        <div class="cal-nav">
+          <button type="button" id="cal-prev" aria-label="Mes anterior"><span data-copy="copy-86">‹</span></button>
+          <button type="button" id="cal-next" aria-label="Mes siguiente"><span data-copy="copy-87">›</span></button>
+        </div>
+      </div>
+      <div class="cal-scroll">
+        <div class="cal-inner">
+          <div class="dow" aria-hidden="true">
+            <span><span data-copy="copy-88">Lun</span></span><span><span data-copy="copy-89">Mar</span></span><span><span data-copy="copy-90">Mié</span></span><span><span data-copy="copy-91">Jue</span></span><span><span data-copy="copy-92">Vie</span></span><span><span data-copy="copy-93">Sáb</span></span><span><span data-copy="copy-94">Dom</span></span>
+          </div>
+          <div class="days" id="cal-days"></div>
+        </div>
+      </div>
+      <div class="cal-foot">
+        <div class="legend">
+          <span><i style="background:var(--cat-ssa)"></i><span data-copy="copy-95"> SSA</span></span>
+          <span><i style="background:var(--cat-genius)"></i><span data-copy="copy-96"> Curso Genius</span></span>
+          <span><i style="background:var(--cat-online)"></i><span data-copy="copy-97"> One Shot</span></span>
+          <span><i style="background:var(--cat-master)"></i><span data-copy="copy-98"> Masterclass</span></span>
+          <span><i style="background:var(--cat-salida)"></i><span data-copy="copy-99"> Salida</span></span>
+          <span><i style="background:var(--cat-hito)"></i><span data-copy="copy-100"> Evento</span></span>
+        </div>
+        <a class="btn-cal" href="https://calendar.google.com/calendar/u/0?cid=ZWI3Zjc0N2ExODIyZGUxOGY1NzI3NjY4ZGM5MGIyODlhZjJiOWExOWMwZGZjMGFmNzExYjZlZmIzMjY1NTMyNkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener"><span data-copy="copy-101">Añadir a Google Calendar ↗</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="foto" id="foto" aria-label="El equipo con el que empezamos">
+  <div class="navidad" aria-hidden="true"><canvas id="cnav"></canvas></div>
+</section>
+
+<footer class="wrap">
+  <span><span data-copy="copy-102">TEAM LU · Con diversión sacas tu mejor versión</span></span>
+  <span id="updated"><span data-copy="copy-103">—</span></span>
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/editor.html" class="editor-link" style="position:relative;z-index:2;display:block;text-align:center;padding:16px;color:var(--ink-soft);font-size:13px">Editar página</a><script src="/assets/bootstrap.js" defer></script></body></html>

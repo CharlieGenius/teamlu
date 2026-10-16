@@ -1,0 +1,1079 @@
+{
+  "events": [
+    {
+      "start": "2026-09-02",
+      "title": "SSA — Noche de formación",
+      "short": "SSA",
+      "time": "19:45 – 23:00",
+      "type": "ssa"
+    },
+    {
+      "start": "2026-09-09",
+      "title": "SSA — Noche de formación",
+      "short": "SSA",
+      "time": "19:45 – 23:00",
+      "type": "ssa"
+    },
+    {
+      "start": "2026-09-16",
+      "title": "SSA — Noche de formación",
+      "short": "SSA",
+      "time": "19:45 – 23:00",
+      "type": "ssa"
+    },
+    {
+      "start": "2026-09-18",
+      "title": "Curso Genius — Intensivo",
+      "short": "Genius",
+      "time": "15:00 – 22:30",
+      "type": "genius"
+    },
+    {
+      "start": "2026-09-19",
+      "title": "Curso Genius — Intensivo",
+      "short": "Genius",
+      "time": "09:00 – 21:00",
+      "type": "genius"
+    },
+    {
+      "start": "2026-09-20",
+      "title": "Curso Genius — Intensivo",
+      "short": "Genius",
+      "time": "09:00 – 21:00",
+      "type": "genius"
+    },
+    {
+      "start": "2026-09-23",
+      "title": "SSA — Noche de formación",
+      "short": "SSA",
+      "time": "19:45 – 23:00",
+      "type": "ssa"
+    },
+    {
+      "start": "2026-09-24",
+      "title": "Masterclass",
+      "short": "Masterclass",
+      "time": "18:00 – 19:30",
+      "type": "master"
+    },
+    {
+      "start": "2026-09-25",
+      "title": "Masterclass",
+      "short": "Masterclass",
+      "time": "18:00 – 19:30",
+      "type": "master"
+    },
+    {
+      "start": "2026-09-26",
+      "title": "Mindlab Masterclass",
+      "short": "Masterclass",
+      "time": "17:00 – 19:30",
+      "type": "master"
+    },
+    {
+      "start": "2026-09-26",
+      "title": "Salida SSA",
+      "short": "Salida",
+      "time": "20:00 – 23:30",
+      "type": "salida"
+    },
+    {
+      "start": "2026-09-30",
+      "title": "SSA — Noche de formación",
+      "short": "SSA",
+      "time": "19:45 – 23:00",
+      "type": "ssa"
+    },
+    {
+      "start": "2026-10-03",
+      "end": "2026-10-04",
+      "title": "30 Días",
+      "short": "30 Días",
+      "time": "Todo el día",
+      "type": "hito"
+    },
+    {
+      "start": "2026-10-07",
+      "title": "SSA — Noche de formación",
+      "short": "SSA",
+      "time": "19:45 – 23:00",
+      "type": "ssa"
+    },
+    {
+      "start": "2026-10-10",
+      "title": "Salida SSA",
+      "short": "Salida",
+      "time": "20:00 – 00:00",
+      "type": "salida"
+    },
+    {
+      "start": "2026-10-11",
+      "title": "One Shot — Presentación online",
+      "short": "One Shot",
+      "time": "10:00 – 12:30",
+      "type": "oneshot"
+    },
+    {
+      "start": "2026-10-14",
+      "title": "SSA — Noche de formación",
+      "short": "SSA",
+      "time": "19:45 – 23:00",
+      "type": "ssa"
+    },
+    {
+      "start": "2026-10-16",
+      "title": "Curso Genius — Intensivo",
+      "short": "Genius",
+      "time": "15:00 – 22:30",
+      "type": "genius"
+    },
+    {
+      "start": "2026-10-17",
+      "title": "Curso Genius — Intensivo",
+      "short": "Genius",
+      "time": "09:00 – 21:00",
+      "type": "genius"
+    },
+    {
+      "start": "2026-10-18",
+      "title": "Curso Genius — Intensivo",
+      "short": "Genius",
+      "time": "09:00 – 21:00",
+      "type": "genius"
+    },
+    {
+      "start": "2026-10-21",
+      "title": "SSA — Noche de formación",
+      "short": "SSA",
+      "time": "19:45 – 23:00",
+      "type": "ssa"
+    },
+    {
+      "start": "2026-10-25",
+      "title": "Salida SSA",
+      "short": "Salida",
+      "time": "20:00 – 22:00",
+      "type": "salida"
+    },
+    {
+      "start": "2026-10-28",
+      "title": "SSA — Noche de formación",
+      "short": "SSA",
+      "time": "19:45 – 23:00",
+      "type": "ssa"
+    },
+    {
+      "start": "2026-10-30",
+      "end": "2026-11-01",
+      "title": "Eagle",
+      "short": "Eagle",
+      "time": "Todo el día",
+      "type": "hito"
+    },
+    {
+      "start": "2026-11-04",
+      "title": "SSA — Noche de formación",
+      "short": "SSA",
+      "time": "19:45 – 23:00",
+      "type": "ssa"
+    },
+    {
+      "start": "2026-11-06",
+      "title": "Curso Genius — Intensivo",
+      "short": "Genius",
+      "time": "15:00 – 22:30",
+      "type": "genius"
+    },
+    {
+      "start": "2026-11-07",
+      "title": "Curso Genius — Intensivo",
+      "short": "Genius",
+      "time": "09:00 – 21:00",
+      "type": "genius"
+    },
+    {
+      "start": "2026-11-08",
+      "title": "Curso Genius — Intensivo",
+      "short": "Genius",
+      "time": "09:00 – 21:00",
+      "type": "genius"
+    },
+    {
+      "start": "2026-11-11",
+      "title": "SSA — Noche de formación",
+      "short": "SSA",
+      "time": "19:45 – 23:00",
+      "type": "ssa"
+    },
+    {
+      "start": "2026-11-14",
+      "title": "Salida SSA",
+      "short": "Salida",
+      "time": "20:00 – 23:30",
+      "type": "salida"
+    },
+    {
+      "start": "2026-11-15",
+      "title": "One Shot — Presentación online",
+      "short": "One Shot",
+      "time": "10:00 – 12:30",
+      "type": "oneshot"
+    },
+    {
+      "start": "2026-11-18",
+      "title": "SSA — Noche de formación",
+      "short": "SSA",
+      "time": "19:45 – 23:00",
+      "type": "ssa"
+    },
+    {
+      "start": "2026-11-21",
+      "end": "2026-11-22",
+      "title": "Dream Building",
+      "short": "Dream Building",
+      "time": "09:00 – 19:30",
+      "type": "hito"
+    },
+    {
+      "start": "2026-11-25",
+      "title": "SSA — Noche de formación",
+      "short": "SSA",
+      "time": "19:45 – 23:00",
+      "type": "ssa"
+    },
+    {
+      "start": "2026-11-28",
+      "title": "Salida SSA",
+      "short": "Salida",
+      "time": "20:00 – 23:30",
+      "type": "salida"
+    },
+    {
+      "start": "2026-11-29",
+      "title": "One Shot — Presentación online",
+      "short": "One Shot",
+      "time": "10:00 – 12:30",
+      "type": "oneshot"
+    },
+    {
+      "start": "2026-12-02",
+      "title": "SSA — Noche de formación",
+      "short": "SSA",
+      "time": "19:45 – 23:00",
+      "type": "ssa"
+    },
+    {
+      "start": "2026-12-04",
+      "title": "Curso Genius — Intensivo",
+      "short": "Genius",
+      "time": "15:00 – 22:30",
+      "type": "genius"
+    },
+    {
+      "start": "2026-12-05",
+      "title": "Curso Genius — Intensivo",
+      "short": "Genius",
+      "time": "09:00 – 21:00",
+      "type": "genius"
+    },
+    {
+      "start": "2026-12-06",
+      "title": "Curso Genius — Intensivo",
+      "short": "Genius",
+      "time": "09:00 – 21:00",
+      "type": "genius"
+    },
+    {
+      "start": "2026-12-09",
+      "title": "SSA — Noche de formación",
+      "short": "SSA",
+      "time": "19:45 – 23:00",
+      "type": "ssa"
+    },
+    {
+      "start": "2026-12-12",
+      "title": "Salida SSA",
+      "short": "Salida",
+      "time": "20:00 – 23:30",
+      "type": "salida"
+    },
+    {
+      "start": "2026-12-16",
+      "title": "SSA — Noche de formación",
+      "short": "SSA",
+      "time": "19:45 – 23:00",
+      "type": "ssa"
+    },
+    {
+      "start": "2026-12-19",
+      "title": "Cena de Navidad",
+      "short": "Cena Navidad",
+      "time": "Todo el día",
+      "type": "hito"
+    },
+    {
+      "start": "2026-12-23",
+      "title": "SSA — Noche de formación",
+      "short": "SSA",
+      "time": "19:45 – 23:00",
+      "type": "ssa"
+    },
+    {
+      "start": "2026-12-27",
+      "title": "One Shot — Presentación online",
+      "short": "One Shot",
+      "time": "10:00 – 12:30",
+      "type": "oneshot"
+    },
+    {
+      "start": "2026-12-30",
+      "title": "SSA — Noche de formación",
+      "short": "SSA",
+      "time": "19:45 – 23:00",
+      "type": "ssa"
+    }
+  ],
+  "eagle": [
+    {
+      "nombre": "Allison",
+      "estrellas": 4
+    },
+    {
+      "nombre": "Miguel",
+      "estrellas": 1
+    },
+    {
+      "nombre": "Vero",
+      "estrellas": 0
+    },
+    {
+      "nombre": "Judit",
+      "estrellas": 1
+    },
+    {
+      "nombre": "Javi",
+      "estrellas": 7,
+      "brillan": 2
+    },
+    {
+      "nombre": "Paula",
+      "estrellas": 5
+    },
+    {
+      "nombre": "Shamyra",
+      "estrellas": 1
+    },
+    {
+      "nombre": "Marta",
+      "estrellas": 0
+    },
+    {
+      "nombre": "Pablo",
+      "estrellas": 1
+    },
+    {
+      "nombre": "Fran",
+      "estrellas": 0
+    }
+  ],
+  "contest": [
+    {
+      "nombre": "Bea",
+      "aviones": 0
+    },
+    {
+      "nombre": "Javi",
+      "aviones": 6,
+      "brillan": 4
+    },
+    {
+      "nombre": "Shamyra",
+      "aviones": 0
+    }
+  ],
+  "personas": [
+    {
+      "nombre": "Allison",
+      "historial": [
+        {
+          "fecha": "2026-10-07",
+          "nota": "Skillers",
+          "objetivos": [
+            {
+              "texto": "2 chicas"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-10-01",
+          "objetivos": [
+            {
+              "texto": "3 llamadas en la agenda"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-22",
+          "objetivos": [
+            {
+              "texto": "4 llamadas"
+            },
+            {
+              "texto": "20p"
+            },
+            {
+              "texto": "Levantarse a las 7:30"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-20",
+          "nota": "Staff del curso",
+          "objetivos": [
+            {
+              "texto": "1 persona al curso (pensó en 2)"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-09",
+          "objetivos": [
+            {
+              "texto": "Amiga Marta"
+            },
+            {
+              "texto": "Master plan de agenda"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-04",
+          "objetivos": [
+            {
+              "texto": "Estar próxima a Eagle y cerrarlo",
+              "tag": "30 sep"
+            },
+            {
+              "texto": "Profundizar la relación con su familia con una acción al día"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Miguel",
+      "historial": [
+        {
+          "fecha": "2026-10-07",
+          "nota": "Skillers",
+          "objetivos": [
+            {
+              "texto": "Obj estudio — ¿cuál?"
+            },
+            {
+              "texto": "Contar tu historia"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-22",
+          "objetivos": [
+            {
+              "texto": "20p"
+            },
+            {
+              "texto": "Estudiar"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-09",
+          "objetivos": [
+            {
+              "texto": "Dar un poco para dar lo mejor en equipo"
+            },
+            {
+              "texto": "1 min por pav"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-04",
+          "objetivos": [
+            {
+              "texto": "Inglés",
+              "tag": "30 días"
+            },
+            {
+              "texto": "Escribir 10 cosas buenas al día",
+              "tag": "Hasta el 1 oct"
+            },
+            {
+              "texto": "Invitar a gente de la familia y hacer 20 palabras"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Vero",
+      "historial": [
+        {
+          "fecha": "2026-09-04",
+          "objetivos": [
+            {
+              "texto": "Ir al día con la organización y el estudio"
+            },
+            {
+              "texto": "Invitar a sus amigas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Judit",
+      "historial": [
+        {
+          "fecha": "2026-10-07",
+          "nota": "Skillers",
+          "objetivos": [
+            {
+              "texto": "Numerazo"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-10-01",
+          "objetivos": [
+            {
+              "texto": "Numerazo amiga"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-22",
+          "objetivos": [
+            {
+              "texto": "Llamar a la amiga"
+            },
+            {
+              "texto": "Medirse en los estudios"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-20",
+          "nota": "Staff del curso",
+          "objetivos": [
+            {
+              "texto": "1 persona al curso"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-09",
+          "objetivos": [
+            {
+              "texto": "Hacer la acción a la primera"
+            },
+            {
+              "texto": "Amiga Expli"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-04",
+          "objetivos": [
+            {
+              "texto": "Cambiar de trabajo a uno de integradora social"
+            },
+            {
+              "texto": "Hablar de corazón con sus amigas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Javi",
+      "historial": [
+        {
+          "fecha": "2026-10-07",
+          "nota": "Skillers",
+          "objetivos": [
+            {
+              "texto": "Eagle"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-10-01",
+          "objetivos": [
+            {
+              "texto": "Eagle"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-22",
+          "objetivos": [
+            {
+              "texto": "Amigo"
+            },
+            {
+              "texto": "Revista el sábado"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-20",
+          "nota": "Staff del curso",
+          "objetivos": [
+            {
+              "texto": "Eagle"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-09",
+          "objetivos": [
+            {
+              "texto": "Hablar de corazón"
+            },
+            {
+              "texto": "Seguir"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-04",
+          "objetivos": [
+            {
+              "texto": "Eagle",
+              "tag": "Antes del curso"
+            },
+            {
+              "texto": "Contest",
+              "tag": "Para la cena de Navidad"
+            },
+            {
+              "texto": "Relaciones con la familia — su mamá, que haga el curso"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Paula",
+      "historial": [
+        {
+          "fecha": "2026-10-07",
+          "nota": "Skillers",
+          "objetivos": [
+            {
+              "texto": "Organización uni"
+            },
+            {
+              "texto": "Hablar tío"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-10-01",
+          "objetivos": [
+            {
+              "texto": "Revista domingo"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-22",
+          "objetivos": [
+            {
+              "texto": "Hablar con 16 personas"
+            },
+            {
+              "texto": "Revista",
+              "tag": "4 oct"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-20",
+          "nota": "Staff del curso",
+          "objetivos": [
+            {
+              "texto": "4 personas a la masterclass"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-16",
+          "objetivos": [
+            {
+              "texto": "Eagle, cerrarlo",
+              "tag": "17 sep"
+            },
+            {
+              "texto": "Empezar bien la uni"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-09",
+          "objetivos": [
+            {
+              "texto": "Acciones para proteger sueños"
+            },
+            {
+              "texto": "Revista"
+            },
+            {
+              "texto": "Organizar las primeras tutorías"
+            },
+            {
+              "texto": "Gym 3 días"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-04",
+          "objetivos": [
+            {
+              "texto": "Programa 30 días"
+            },
+            {
+              "texto": "Eagle, cerrarlo",
+              "tag": "17 sep"
+            },
+            {
+              "texto": "Empezar bien la uni"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Shamyra",
+      "historial": [
+        {
+          "fecha": "2026-10-07",
+          "nota": "Skillers",
+          "objetivos": [
+            {
+              "texto": "2 numerazos"
+            },
+            {
+              "texto": "Conversación"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-10-01",
+          "objetivos": [
+            {
+              "texto": "Numerazo profe"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-20",
+          "nota": "Staff del curso",
+          "objetivos": [
+            {
+              "texto": "8 masterclass"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-09",
+          "objetivos": [
+            {
+              "texto": "Cuidar tus sueños"
+            },
+            {
+              "texto": "Hablar con la amiga para demostrar"
+            },
+            {
+              "texto": "Hacer agenda"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-04",
+          "objetivos": [
+            {
+              "texto": "30 días"
+            },
+            {
+              "texto": "Contest"
+            },
+            {
+              "texto": "Shamy skiller en su casa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Bea",
+      "icono": "aguila",
+      "historial": [
+        {
+          "fecha": "2026-10-07",
+          "nota": "Skillers",
+          "objetivos": [
+            {
+              "texto": "Examen"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-10-01",
+          "objetivos": [
+            {
+              "texto": "Organizar"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-22",
+          "objetivos": [
+            {
+              "texto": "Sacar al perro"
+            },
+            {
+              "texto": "Estudiar revista"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-20",
+          "nota": "Staff del curso",
+          "objetivos": [
+            {
+              "texto": "Amiga al curso"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-09",
+          "objetivos": [
+            {
+              "texto": "Organizarse"
+            },
+            {
+              "texto": "Venir a la SSA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Pablo",
+      "historial": [
+        {
+          "fecha": "2026-10-07",
+          "nota": "Skillers",
+          "objetivos": [
+            {
+              "texto": "Recu ciclos"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-10-01",
+          "objetivos": [
+            {
+              "texto": "Numerazo"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-22",
+          "objetivos": [
+            {
+              "texto": "Numerazo el viernes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Marta",
+      "historial": [
+        {
+          "fecha": "2026-10-07",
+          "nota": "Skillers",
+          "objetivos": [
+            {
+              "texto": "Organización"
+            },
+            {
+              "texto": "Numerazo"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-10-01",
+          "objetivos": [
+            {
+              "texto": "Organización"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-22",
+          "objetivos": [
+            {
+              "texto": "Gym sola"
+            },
+            {
+              "texto": "Estudiar organizada"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Fran",
+      "historial": [
+        {
+          "fecha": "2026-10-07",
+          "nota": "Skillers",
+          "objetivos": [
+            {
+              "texto": "Otras 5 currículum"
+            },
+            {
+              "texto": "Estudiar"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-10-01",
+          "objetivos": [
+            {
+              "texto": "Poner una sola alarma"
+            },
+            {
+              "texto": "5 currículum"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "copy": {
+    "copy-0": "Team",
+    "copy-1": "LU",
+    "copy-2": "Con diversión sacas ",
+    "copy-3": "tu mejor versión",
+    "copy-4": ".",
+    "copy-5": "Nuestro plato",
+    "copy-6": "El premio",
+    "copy-7": "Eagle",
+    "copy-8": "Contest",
+    "copy-9": "Los 9 puntos",
+    "copy-10": "El canal",
+    "copy-11": "Calendario",
+    "copy-12": "70",
+    "copy-13": " estrellas por conseguir",
+    "copy-14": "8",
+    "copy-15": " personas en el equipo",
+    "copy-16": "Nuestro plato",
+    "copy-17": "Todos juntos, lo ganamos.",
+    "copy-18": "0",
+    "copy-19": "conseguidas",
+    "copy-20": "0 conseguidas de 70",
+    "copy-21": "Cada estrella es un logro del equipo. Cuando caiga una, dímelo y la enciendo.",
+    "copy-22": "El premio",
+    "copy-23": "El día que lo conseguimos.",
+    "copy-24": "▶",
+    "copy-25": "Ver el vídeo del premio",
+    "copy-26": "Se reproduce aquí mismo",
+    "copy-27": "Objetivo individual",
+    "copy-28": "Eagle",
+    "copy-29": "Cuando yo gano, todos ganan.",
+    "copy-30": "Objetivos personales",
+    "copy-31": "Toca una tarjeta para ver todo el historial de esa persona.",
+    "copy-32": "×",
+    "copy-33": "—",
+    "copy-34": "—",
+    "copy-35": "Contest",
+    "copy-36": "Catorce vuelos, un destino.",
+    "copy-37": "Los 9 puntos de la SSA",
+    "copy-38": "1",
+    "copy-39": "Actitud mental positiva",
+    "copy-40": "«La habilidad es lo que somos capaces de hacer, la motivación determina lo que hacemos, la actitud define lo bien que lo hacemos»",
+    "copy-41": "2",
+    "copy-42": "Aplicar SSA y Genius",
+    "copy-43": "«Todas las cosas son difíciles antes de convertirse en fáciles»\n          ",
+    "copy-44": "John Norley",
+    "copy-45": "3",
+    "copy-46": "Participación activa",
+    "copy-47": "Acudir a los eventos, cursos y formaciones.",
+    "copy-48": "«Hay 3 cosas grandes en el mundo: los océanos, las montañas y una persona empeñada»\n          ",
+    "copy-49": "Winston Churchill",
+    "copy-50": "4",
+    "copy-51": "Puntualidad física y mental",
+    "copy-52": "Proactividad.",
+    "copy-53": "«No esperes que tu barco entre al puerto, nada hacia él»",
+    "copy-54": "5",
+    "copy-55": "Profesionalidad y competencia",
+    "copy-56": "Ropa formal, buenas maneras, ser aculturado.",
+    "copy-57": "6",
+    "copy-58": "Ser útil y guiar con el ejemplo",
+    "copy-59": "«De las mejores satisfacciones de esta vida es que nadie puede ayudar realmente a los demás sin ayudarse y mejorarse a sí mismo»\n          ",
+    "copy-60": "Ralph Waldo Emerson",
+    "copy-61": "7",
+    "copy-62": "Contribuir",
+    "copy-63": "Al crecimiento del Centro, involucrando a los demás (Eagle) y llevando ejemplo a tu entorno.",
+    "copy-64": "8",
+    "copy-65": "Definir objetivos sin límites",
+    "copy-66": "«Lo maravilloso de la experiencia humana perdería parte de la felicidad gratificante si no hubieran límites a superar»\n          ",
+    "copy-67": "Helen Keller",
+    "copy-68": "9",
+    "copy-69": "Teamwork",
+    "copy-70": "Honestidad, confianza y sinceridad.",
+    "copy-71": "El canal",
+    "copy-72": "Valerio en YouTube",
+    "copy-73": "Acceso directo a lo último del canal: el botón abre siempre el vídeo más reciente, sin tener que tocar nada aquí.",
+    "copy-74": "▶",
+    "copy-75": "Último vídeo de Mind-Lab",
+    "copy-76": "Se abre en YouTube por el más reciente ↗",
+    "copy-77": "Mind-Lab",
+    "copy-78": "@Mindlab.ValerioSepe",
+    "copy-79": "Aprendizaje acelerado, memoria, concentración y productividad. El enlace lleva a la lista de subidas, ordenada por lo más nuevo.",
+    "copy-80": "Suscribirse ↗",
+    "copy-81": "Ver todos los vídeos ↗",
+    "copy-82": "Calendario",
+    "copy-83": "Lo que viene",
+    "copy-84": "La temporada completa, mes a mes. Cada actividad aparece en su día, con su color y su hora de inicio.",
+    "copy-85": "—",
+    "copy-86": "‹",
+    "copy-87": "›",
+    "copy-88": "Lun",
+    "copy-89": "Mar",
+    "copy-90": "Mié",
+    "copy-91": "Jue",
+    "copy-92": "Vie",
+    "copy-93": "Sáb",
+    "copy-94": "Dom",
+    "copy-95": " SSA",
+    "copy-96": " Curso Genius",
+    "copy-97": " One Shot",
+    "copy-98": " Masterclass",
+    "copy-99": " Salida",
+    "copy-100": " Evento",
+    "copy-101": "Añadir a Google Calendar ↗",
+    "copy-102": "TEAM LU · Con diversión sacas tu mejor versión",
+    "copy-103": "—"
+  },
+  "progress": {
+    "total": 70,
+    "achieved": 25.8,
+    "newStars": 5.8
+  }
+}

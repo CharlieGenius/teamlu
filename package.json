@@ -1,0 +1,1 @@
+{"name":"team-lu","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"netlify dev --port 8889"},"dependencies":{"@netlify/blobs":"^11.1.4","@netlify/database":"latest","@netlify/functions":"latest","@netlify/identity":"latest","drizzle-orm":"beta"},"devDependencies":{"drizzle-kit":"beta","typescript":"latest"}}
